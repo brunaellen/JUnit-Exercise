@@ -1,6 +1,6 @@
 # PROJECT DEVELOPED DURING THE (TDD AND JAVA: AUTOMATED TESTS WITH JUNIT COURSE)
 
-## I have to develop this project to learn and put in practice the TDD concept using JUnit.
+## I developed this project to learn and put in practice the TDD concept using JUnit.
 
 * Understand the importance of writing automated tests in an application.
 * Learn how to write automated tests with JUnit.
@@ -9,6 +9,7 @@
 
 ## About The Project
 (The main focus of this application is to practice the creation of automated tests).
+
 The application calculates a bonus and a salary adjustment to a given employee.
 
 ### Business logic
